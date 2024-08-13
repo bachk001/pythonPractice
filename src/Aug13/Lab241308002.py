@@ -9,16 +9,14 @@ User input - num int -> 10, 100, -1, 2, 3.14 -> input
 num = int(input("Enter the number : "))
 print("Table of ",num)
 print(f"{num}*1={num}")
-print(f"{num}*2={num}")
-print(f"{num}*3={num}")
-print(f"{num}*4={num}")
-print(f"{num}*5={num}")
-print(f"{num}*6={num}")
-print(f"{num}*7={num}")
-print(f"{num}*8={num}")
-print(f"{num}*9={num}")
-print(f"{num}*10={num}")
-
-
+print(f"{num}*2={num*2}")
+print(f"{num}*3={num*3}")
+print(f"{num}*4={num*4}")
+print(f"{num}*5={num*5}")
+print(f"{num}*6={num*6}")
+print(f"{num}*7={num*7}")
+print(f"{num}*8={num*8}")
+print(f"{num}*9={num*9}")
+print(f"{num}*10={num*10}")
 
 
