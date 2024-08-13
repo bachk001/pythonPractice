@@ -1,8 +1,10 @@
-# create program, take 2 user inputs num1, num2 and give them
-#max
-#pow num1 to num2
-#sub,mul,sum,div
-#format your output to f{""}
+"""
+create program, take 2 user inputs num1, num2 and give them
+max
+pow num1 to num2
+sub,mul,sum,div
+format your output to f{""}
+"""
 
 num1 = int(input("Enter num1 : "))
 num2 = int(input("Enter num2 : "))
