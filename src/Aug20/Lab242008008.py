@@ -9,9 +9,9 @@ determine if the triangle is equilateral (all sides are equal),
 isosceles (exactly two sides are equal), or scalene (no sides are equal).
 Use an if-else statement to classify the triangle.
 """
-L1 = int(input("Enter L1 : "))
-L2 = int(input("Enter L2 : "))
-L3 = int(input("Enter L3 : "))
+L1 = float(input("Enter L1 : "))
+L2 = float(input("Enter L2 : "))
+L3 = float(input("Enter L3 : "))
 
 if L1==L2 and L2==L3 and L1==L3:
     print("Equilateral Triangle")
